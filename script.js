@@ -57,7 +57,7 @@ console.log(greetDayeon);
 
 const calculator = {
     plus: function(a, b){
-        return a +_b;
+        return a + b;
     },
     minus: function(a, b){
         return a - b;
